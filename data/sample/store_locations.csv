@@ -1,0 +1,18 @@
+store_id,store_name,city,state,region
+STR-0001,New York Downtown Store,New York,NY,Northeast
+STR-0002,Boston Downtown Store,Boston,MA,Northeast
+STR-0003,Philadelphia Downtown Store,Philadelphia,PA,Northeast
+STR-0004,Philadelphia Mall Store,Philadelphia,PA,Northeast
+STR-0005,Atlanta Downtown Store,Atlanta,GA,Southeast
+STR-0006,Miami Downtown Store,Miami,FL,Southeast
+STR-0007,Charlotte Downtown Store,Charlotte,NC,Southeast
+STR-0008,Chicago Downtown Store,Chicago,IL,Midwest
+STR-0009,Detroit Downtown Store,Detroit,MI,Midwest
+STR-0010,Minneapolis Downtown Store,Minneapolis,MN,Midwest
+STR-0011,Minneapolis Mall Store,Minneapolis,MN,Midwest
+STR-0012,Los Angeles Downtown Store,Los Angeles,CA,West
+STR-0013,Seattle Downtown Store,Seattle,WA,West
+STR-0014,Denver Downtown Store,Denver,CO,West
+STR-0015,Houston Downtown Store,Houston,TX,South
+STR-0016,Dallas Downtown Store,Dallas,TX,South
+STR-0017,Austin Downtown Store,Austin,TX,South

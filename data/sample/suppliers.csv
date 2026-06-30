@@ -1,0 +1,11 @@
+supplier_id,supplier_name,country,lead_time_days
+SUP-001,Global Textiles Inc,India,5
+SUP-002,Pacific Electronics Co,Germany,21
+SUP-003,FreshFoods Distributors,Germany,14
+SUP-004,HomeStyle Manufacturing,Mexico,5
+SUP-005,Apex Sporting Goods,Mexico,14
+SUP-006,Urban Furniture Group,Vietnam,30
+SUP-007,BrightTech Components,USA,30
+SUP-008,Greenleaf Organics,China,21
+SUP-009,Sterling Houseware,Mexico,7
+SUP-010,Velocity Auto Parts,Vietnam,5

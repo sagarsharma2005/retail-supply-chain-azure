@@ -1,0 +1,69 @@
+product_id,product_name,category,sub_category,supplier_id,unit_price
+PRD-00001,Ultra Headphone,Electronics,Headphones,SUP-006,177.75
+PRD-00002,Essential Headphone,Electronics,Headphones,SUP-002,498.71
+PRD-00003,Pro Headphone,Electronics,Headphones,SUP-010,380.64
+PRD-00004,Compact Smartphone,Electronics,Smartphones,SUP-008,720.28
+PRD-00005,Essential Smartphone,Electronics,Smartphones,SUP-002,740.04
+PRD-00006,Ultra Smartphone,Electronics,Smartphones,SUP-010,1156.8
+PRD-00007,Deluxe Laptop,Electronics,Laptops,SUP-004,930.7
+PRD-00008,Premium Laptop,Electronics,Laptops,SUP-004,1016.33
+PRD-00009,Premium Laptop,Electronics,Laptops,SUP-004,1133.09
+PRD-00010,Essential Laptop,Electronics,Laptops,SUP-005,616.75
+PRD-00011,Classic Camera,Electronics,Cameras,SUP-006,494.08
+PRD-00012,Compact Camera,Electronics,Cameras,SUP-005,927.27
+PRD-00013,Compact Camera,Electronics,Cameras,SUP-002,811.4
+PRD-00014,Classic Camera,Electronics,Cameras,SUP-009,961.4
+PRD-00015,Essential Shirt,Apparel,Shirts,SUP-007,51.43
+PRD-00016,Compact Shirt,Apparel,Shirts,SUP-009,44.64
+PRD-00017,Pro Shirt,Apparel,Shirts,SUP-001,45.91
+PRD-00018,Ultra Jean,Apparel,Jeans,SUP-006,69.15
+PRD-00019,Premium Jean,Apparel,Jeans,SUP-004,138.26
+PRD-00020,Deluxe Jean,Apparel,Jeans,SUP-006,43.69
+PRD-00021,Essential Jacket,Apparel,Jackets,SUP-008,34.28
+PRD-00022,Classic Jacket,Apparel,Jackets,SUP-004,115.56
+PRD-00023,Deluxe Jacket,Apparel,Jackets,SUP-005,115.84
+PRD-00024,Essential Jacket,Apparel,Jackets,SUP-010,68.91
+PRD-00025,Classic Shoe,Apparel,Shoes,SUP-009,81.61
+PRD-00026,Ultra Shoe,Apparel,Shoes,SUP-001,131.24
+PRD-00027,Classic Shoe,Apparel,Shoes,SUP-003,121.92
+PRD-00028,Deluxe Cookware,Home & Kitchen,Cookware,SUP-002,160.05
+PRD-00029,Deluxe Cookware,Home & Kitchen,Cookware,SUP-008,216.34
+PRD-00030,Deluxe Cookware,Home & Kitchen,Cookware,SUP-001,275.3
+PRD-00031,Premium Cookware,Home & Kitchen,Cookware,SUP-009,302.83
+PRD-00032,Premium Furniture,Home & Kitchen,Furniture,SUP-005,179.55
+PRD-00033,Essential Furniture,Home & Kitchen,Furniture,SUP-001,381.98
+PRD-00034,Compact Furniture,Home & Kitchen,Furniture,SUP-005,389.03
+PRD-00035,Ultra Furniture,Home & Kitchen,Furniture,SUP-003,207.99
+PRD-00036,Ultra Bedding,Home & Kitchen,Bedding,SUP-005,338.24
+PRD-00037,Deluxe Bedding,Home & Kitchen,Bedding,SUP-010,87.57
+PRD-00038,Pro Bedding,Home & Kitchen,Bedding,SUP-003,220.35
+PRD-00039,Deluxe Decor,Home & Kitchen,Decor,SUP-006,200.55
+PRD-00040,Premium Decor,Home & Kitchen,Decor,SUP-006,352.69
+PRD-00041,Ultra Decor,Home & Kitchen,Decor,SUP-005,103.38
+PRD-00042,Deluxe Beverage,Groceries,Beverages,SUP-002,3.96
+PRD-00043,Essential Beverage,Groceries,Beverages,SUP-002,24.48
+PRD-00044,Deluxe Beverage,Groceries,Beverages,SUP-003,4.94
+PRD-00045,Deluxe Snack,Groceries,Snacks,SUP-003,8.09
+PRD-00046,Ultra Snack,Groceries,Snacks,SUP-010,11.72
+PRD-00047,Classic Snack,Groceries,Snacks,SUP-009,19.36
+PRD-00048,Compact Snack,Groceries,Snacks,SUP-004,18.39
+PRD-00049,Compact Dairy,Groceries,Dairy,SUP-006,12.07
+PRD-00050,Deluxe Dairy,Groceries,Dairy,SUP-008,4.77
+PRD-00051,Classic Dairy,Groceries,Dairy,SUP-002,9.77
+PRD-00052,Deluxe Dairy,Groceries,Dairy,SUP-009,7.28
+PRD-00053,Premium Produce,Groceries,Produce,SUP-002,18.27
+PRD-00054,Premium Produce,Groceries,Produce,SUP-004,3.54
+PRD-00055,Premium Produce,Groceries,Produce,SUP-006,3.62
+PRD-00056,Pro Fitness Equipment,Sports,Fitness Equipment,SUP-008,138.75
+PRD-00057,Classic Fitness Equipment,Sports,Fitness Equipment,SUP-010,351.23
+PRD-00058,Classic Fitness Equipment,Sports,Fitness Equipment,SUP-008,486.99
+PRD-00059,Premium Outdoor Gear,Sports,Outdoor Gear,SUP-002,399.81
+PRD-00060,Pro Outdoor Gear,Sports,Outdoor Gear,SUP-007,254.31
+PRD-00061,Ultra Outdoor Gear,Sports,Outdoor Gear,SUP-001,408.25
+PRD-00062,Premium Team Sport,Sports,Team Sports,SUP-007,440.45
+PRD-00063,Ultra Team Sport,Sports,Team Sports,SUP-002,158.95
+PRD-00064,Classic Team Sport,Sports,Team Sports,SUP-009,276.33
+PRD-00065,Classic Cycling,Sports,Cycling,SUP-005,284.55
+PRD-00066,Ultra Cycling,Sports,Cycling,SUP-002,273.11
+PRD-00067,Ultra Cycling,Sports,Cycling,SUP-009,70.46
+PRD-00068,Compact Cycling,Sports,Cycling,SUP-009,503.74
